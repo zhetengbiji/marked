@@ -1,7 +1,6 @@
 {
   "name": "markedjs",
   "redirects": [ 
-    { "src": "/repo", "statusCode": 307, "headers": { "Location": "https://github.com/markedjs/marked" } },
-    { "src": "/old", "statusCode": 307, "headers": { "Location": "https://marked.js.org" } }
+    { "source": "/repo", "destination": "https://github.com/markedjs/marked" }
   ]
 }
